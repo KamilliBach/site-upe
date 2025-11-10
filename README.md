@@ -5,7 +5,7 @@ Este é o repositório do projeto do Site Oficial da União Paranaense dos Estud
 ## Objetivos Principais do MVP
 
 1.  **Comunicação Imediata:** Exibir notícias, artigos e pautas de luta de forma clara.
-2.  **Mobilização:** Dar destaque aos próximos eventos, atos e o processo de filiação.
+2.  **Mobilização:** Dar destaque aos próximos eventos, atos e como participar.
 3.  **Transparência:** Apresentar a capilaridade da diretoria no estado.
 
 ## Arquitetura e Tecnologia
