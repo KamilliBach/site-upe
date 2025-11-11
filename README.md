@@ -16,6 +16,16 @@ Este é o repositório do projeto do Site Oficial da União Paranaense dos Estud
     * **Mapa Interativo:** Integração via API de geolocalização para plotar a presença dos diretores no mapa do Paraná.
     * **CMS Simplificado:** Backend planejado para gerenciamento de Eventos (E3) e Conteúdo (E4), focado na usabilidade do administrador.
 
+
+
+| :--- | :--- |
+| **1. Home** | Imagem de Luta, Mapa de Presença,   .. |
+| **2. Institucional** | Quem Somos, História, Gestão Atual, Pautas e Documentos. |
+| **3. Notícias & Mídia** | Flâmula Digital, Artigos, Mídia (Galeria de Fotos/Vídeos). |
+| **4. Serviços ao Estudante** |  Organização de Base (DCE/CA), ... |
+| **5. Participe** | CONUPE, Calendário de Eventos ...|
+
+
 ## Como Contribuir
 
 1.  Clone este repositório.
